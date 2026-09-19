@@ -202,10 +202,6 @@ Repository پروژه را در GitHub ایجاد کنید و فایل‌های 
 
 ---
 
-## 📱 ارتباط با MatiX
-
-- ✈️ Telegram: **@Imatix7**
-- 📸 Instagram: **@imatix_**
 
 ---
 
